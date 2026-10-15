@@ -1,0 +1,14 @@
+# Ignore the large model folder (hosted on Google Drive)
+final_bengali_model/
+mt5-bengali-dialect/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
